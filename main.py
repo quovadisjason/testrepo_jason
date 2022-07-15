@@ -1,2 +1,2 @@
 # Display the output
-print("Hello from Phython!")
+print("Hello from Python!")
